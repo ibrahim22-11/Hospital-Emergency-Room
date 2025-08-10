@@ -1,8 +1,10 @@
-🏥 Hospital Emergency Room Dashboard – Excel Project
+#🏥 Hospital Emergency Room Dashboard – Excel Project
+
 This Excel dashboard provides a dynamic overview of emergency room operations, designed to help healthcare teams monitor performance and improve patient outcomes. Built entirely in Excel, it combines clean design with powerful analytics to deliver insights at a glance.
 
 
-🧮 Key Performance Indicators (KPIs)
+#🧮 Key Performance Indicators (KPIs)
+
 • 	Patient Count – Total number of ER visits
 • 	Wait Time – Average time before treatment
 • 	Satisfaction Score – Patient feedback ratings
@@ -10,7 +12,8 @@ This Excel dashboard provides a dynamic overview of emergency room operations, d
 Each KPI is interactive, updating based on slicer selections for department, month, and patient type.
 
 
-📊 Charts & Visuals
+#📊 Charts & Visuals
+
 • 	Line Chart – Tracks patient inflow trends over time
 • 	Bar Chart – Compares wait times across ER zones
 • 	Pie Chart – Breaks down patient types (Walk-in, Ambulance, Referral)
