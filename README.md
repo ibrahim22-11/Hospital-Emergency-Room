@@ -44,8 +44,38 @@ Links
 
 📂 GitHub Repository: [Add your repo link here]
 
-📄 Dataset: [Add dataset source link if public]
+📄 Dataset: [Add dataset source link if public] 
 
+
+   Dashboard Link :- https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/Final%20Dashboard.png
+   
+
+
+
+   
+   Average Wait Time :- https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/AverageWaitTime.png
+
+   
+   
+
+
+   Raw Data Link :-   https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/Hospital%20Emergency%20Room%20Data%20Raw.xlsx
+
+
+
+
+   Satisfaction Score Link :- https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/SatisfactionScore.png
+
+
+
+
+
+   Total Patients Links :- https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/TotalPatientsMonthly.png
+
+   
+
+   
+   
 
 
 ---
