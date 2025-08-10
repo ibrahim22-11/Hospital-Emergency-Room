@@ -1,21 +1,13 @@
 🏥 Hospital Emergency Room Dashboard – Excel Project
-
-This Excel dashboard provides a dynamic overview of emergency room operations, designed to help healthcare teams monitor performance and improve patient outcomes. Built entirely in Excel, it combines clean design with powerful analytics to deliver insights at a glance.
-
-
+This dashboard was built entirely in Excel to provide a clear, interactive view of emergency room performance. It helps healthcare teams monitor key metrics, analyze patient flow, and improve decision-making.
 🧮 Key Performance Indicators (KPIs)
-
-• 	Patient Count – Total number of ER visits
-• 	Wait Time – Average time before treatment
-• 	Satisfaction Score – Patient feedback ratings
-• 	Referral Rate – Percentage of patients referred to other departments
-Each KPI is interactive, updating based on slicer selections for department, month, and patient type.
-
-
+• 	Total Patients – Number of patients visiting the ER
+• 	Average Wait Time – Time patients wait before receiving care
+• 	Patients Satisfaction Score – Feedback ratings from treated patients
+• 	Referrals Rate – Percentage of patients referred to other departments
 📊 Charts & Visuals
-
-• 	Line Chart – Tracks patient inflow trends over time
-• 	Bar Chart – Compares wait times across ER zones
-• 	Pie Chart – Breaks down patient types (Walk-in, Ambulance, Referral)
-• 	Heatmap Table – Highlights peak hours and busiest days
-• 	Sparklines – Show mini-trends within KPI cards
+• 	Bar Chart – Monthly admission status (Admitted vs Not Admitted)
+• 	Line Chart – Distribution of patient age groups
+• 	Stacked Bar Chart – Referral counts by department
+• 	Pie Chart – Gender analysis of ER patients
+• 	Donut Chart – Proportion of patients seen within appropriate time
