@@ -1,13 +1,53 @@
-🏥 Hospital Emergency Room Dashboard – Excel Project
-This dashboard was built entirely in Excel to provide a clear, interactive view of emergency room performance. It helps healthcare teams monitor key metrics, analyze patient flow, and improve decision-making.
-🧮 Key Performance Indicators (KPIs)
-• 	Total Patients – Number of patients visiting the ER
-• 	Average Wait Time – Time patients wait before receiving care
-• 	Patients Satisfaction Score – Feedback ratings from treated patients
-• 	Referrals Rate – Percentage of patients referred to other departments
-📊 Charts & Visuals
-• 	Bar Chart – Monthly admission status (Admitted vs Not Admitted)
-• 	Line Chart – Distribution of patient age groups
-• 	Stacked Bar Chart – Referral counts by department
-• 	Pie Chart – Gender analysis of ER patients
-• 	Donut Chart – Proportion of patients seen within appropriate time
+
+Hospital Emergency Room Dashboard
+
+This project showcases an interactive hospital emergency room dashboard built entirely in Microsoft Excel. It provides a monthly performance overview to help track patient flow, referrals, wait times, and service quality through clear KPIs and visual analytics.
+
+Key Features
+
+Total Patients: 9,216 — total number of patients served in the month.
+
+Average Wait Time: 35.26 minutes — average patient waiting time before service.
+
+Patient Satisfaction Score: 1.36 — indicator of patient service quality (scale TBD).
+
+Patients Attended Within Time — measures service delivery efficiency.
+
+
+Charts & Visuals
+
+1. Department Referrals — distribution of patient referrals by department.
+
+
+2. Patient Admission Status — admitted vs discharged vs treated breakdown.
+
+
+3. Patients Age Distribution — demographic insights by age group.
+
+
+4. Patient Satisfaction — visual score representation.
+
+
+5. Gender Analysis — male vs female patient visits.
+
+
+6. Service Timeliness — patients attended within the set target time.
+
+
+
+Technology Used
+
+Microsoft Excel — for data entry, cleaning, KPI calculation, and chart creation.
+
+
+Links
+
+📂 GitHub Repository: [Add your repo link here]
+
+📄 Dataset: [Add dataset source link if public]
+
+
+
+---
+
+This dashboard is useful for hospital administrators, healthcare analysts, and managers to monitor emergency room performance, reduce waiting times, and improve patient satisfaction using only Excel.
