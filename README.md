@@ -42,9 +42,6 @@ Microsoft Excel — for data entry, cleaning, KPI calculation, and chart creatio
 
 Links
 
-📂 GitHub Repository: [Add your repo link here]
-
-📄 Dataset: [Add dataset source link if public] 
 
 
    Dashboard Link :- https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/Final%20Dashboard.png
