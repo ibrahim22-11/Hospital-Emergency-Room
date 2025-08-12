@@ -3,6 +3,12 @@ Hospital Emergency Room Dashboard
 
 This project showcases an interactive hospital emergency room dashboard built entirely in Microsoft Excel. It provides a monthly performance overview to help track patient flow, referrals, wait times, and service quality through clear KPIs and visual analytics.
 
+
+
+Tools Used Only Excel Completed on 10 August 2025
+
+
+
 Key Features
 
 Total Patients: 9,216 — total number of patients served in the month.
