@@ -1,155 +1,103 @@
-🏥 HOSPITAL EMERGENCY ROOM DASHBOARD
+# 🏥 Hospital Emergency Room Dashboard
 
-An interactive dashboard built entirely using Microsoft Excel to monitor and analyze emergency room performance. It tracks patient flow, referrals, wait times, and service quality using KPIs and visuals.
+An interactive dashboard built entirely in **Microsoft Excel** to help visualize and analyze key emergency room operations such as **patient wait times**, **referrals**, **satisfaction**, and **service efficiency**.
 
+![Dashboard Preview](https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/Final%20Dashboard.png)
 
+---
 
+## 📅 Project Info
 
-📌 PROJECT OVERVIEW
+- **🧰 Tools Used:** Microsoft Excel only  
+- **📁 Completed On:** 10 August 2025  
+- **📌 Status:** Finished  
+- **🔗 Live Preview:** [Final Dashboard PNG](https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/Final%20Dashboard.png)
 
-Project Title: Hospital Emergency Room Dashboard
-Technology Used: Microsoft Excel
-Completion Date: 10 August 2025
+---
 
+## 🚀 Features & KPIs
 
-
-
-
-✅ KEY FEATURES
-1. Total Patients
-
-Description:
+### 🔸 Total Patients
+**Count:** `9,216`  
 Total number of patients served during the month.
 
-Value: 9,216
+---
 
-2. Average Wait Time
+### 🔸 Average Wait Time
+**Time:** `35.26 minutes`  
+Average time a patient waits before receiving treatment.
 
-Description:
-Average time a patient waits before receiving medical attention.
+---
 
-Value: 35.26 minutes
+### 🔸 Patient Satisfaction Score
+**Score:** `1.36` *(scale TBD)*  
+Reflects the overall quality of service from the patient's perspective.
 
-3. Patient Satisfaction Score
+---
 
-Description:
-An indicator reflecting patient service quality. (Scale to be defined)
+### 🔸 Service Timeliness
+Indicates how many patients were attended within the hospital’s defined service timeframe.
 
-Value: 1.36
+---
 
-4. Patients Attended Within Target Time
+## 📊 Visualizations Included
 
-Description:
-Tracks efficiency by showing how many patients were seen within a predefined time limit.
+- ✅ **Department Referrals** – Patient referrals by department  
+- ✅ **Patient Admission Status** – Admitted vs. Discharged vs. Treated  
+- ✅ **Age Distribution** – Breakdown of patients by age group  
+- ✅ **Satisfaction Score** – Graphical representation of patient satisfaction  
+- ✅ **Gender Analysis** – Male vs. Female visits  
+- ✅ **Service Timeliness** – Patients attended within target wait time  
 
+---
 
+## 🖼️ Dashboard Snapshots
 
+| Preview | Description |
+|--------|-------------|
+| ![Wait Time](https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/AverageWaitTime.png) | 📉 **Average Wait Time** Chart |
+| ![Satisfaction](https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/SatisfactionScore.png) | 😊 **Patient Satisfaction Score** |
+| ![Patients](https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/TotalPatientsMonthly.png) | 👥 **Total Patients Per Month** |
 
+---
 
+## 📁 Project Files
 
-📊 DASHBOARD VISUALIZATIONS
-1. Department Referrals
+- 🔹 **Raw Data (Excel):** [Download .xlsx](https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/Hospital%20Emergency%20Room%20Data%20Raw.xlsx)  
+- 🔹 **Dashboard Image:** [View PNG](https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/Final%20Dashboard.png)  
+- 🔹 **Wait Time Chart:** [View Chart](https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/AverageWaitTime.png)  
+- 🔹 **Satisfaction Score Chart:** [View Chart](https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/SatisfactionScore.png)  
+- 🔹 **Total Patients Chart:** [View Chart](https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/TotalPatientsMonthly.png)
 
-Details:
-Distribution of patient referrals by each hospital department.
-🔗 View Chart
+---
 
-2. Patient Admission Status
+## 🛠 How It Was Built
 
-Details:
-Classification of patients as admitted, discharged, or treated.
-📌 Included in the main dashboard image.
+This project was created entirely in **Microsoft Excel**:
 
-3. Patients Age Distribution
+- Data imported and cleaned  
+- Formulas used for KPI calculations  
+- Charts created using built-in Excel visuals  
+- Dashboard designed using pivot charts and layout formatting
 
-Details:
-Demographic insights showing patient counts across different age groups.
-📌 Included in the main dashboard image.
+---
 
-4. Patient Satisfaction
+## 💡 How to Use
 
-Details:
-Graphical representation of satisfaction score.
-🔗 View Satisfaction Score Chart
+1. **Download** the raw Excel file from the repository.  
+2. **Open** it in Microsoft Excel.  
+3. **Explore** each sheet for KPIs, charts, and dashboard visuals.  
+4. **Filter or replicate** to use in other hospital or clinic settings.
 
-5. Gender Analysis
+---
 
-Details:
-Visual comparison of male and female patient visits.
-📌 Included in the main dashboard image.
+## 📬 Feedback & Contributions
 
-6. Service Timeliness
+Have ideas to improve this dashboard?
 
-Details:
-Indicates how many patients were attended within the target timeframe.
-📌 Included in the main dashboard image.
+- Open an [issue](https://github.com/ibrahim22-11/Hospital-Emergency-Room/issues)  
+- Submit a pull request if you want to collaborate  
 
+---
 
-
-
-
-📁 FILES & RESOURCES
-🔹 Main Dashboard
-
-📷 View Dashboard
-
-🔹 Raw Data File
-
-📊 Download Excel File
-
-🔹 Average Wait Time Chart
-
-📈 View Chart
-
-🔹 Satisfaction Score Chart
-
-📉 View Chart
-
-🔹 Total Patients Monthly Chart
-
-
-📊 View Chart
-
-
-
-
-🛠️ TOOLS USED
-Microsoft Excel
-
-Used for:
-
-Data entry and preparation
-
-Calculating KPIs
-
-Building dynamic charts and visuals
-
-Designing the interactive dashboard layout
-
-
-
-
-
-
-
-📥 HOW TO USE THE DASHBOARD
-
-Download the raw Excel file from the link above.
-
-Review the dashboard image to understand layout, KPIs, and visuals.
-
-Replicate or enhance the dashboard using the raw data.
-
-Use Excel slicers or filters (if implemented) for interactive insights.
-
-
-
-
-
-💬 FEEDBACK & CONTRIBUTIONS
-
-Have suggestions or want to improve this project?
-
-Open an issue
-
-Or create a pull request to contribute
+> © 2025 Ibrahim. All rights reserved.
