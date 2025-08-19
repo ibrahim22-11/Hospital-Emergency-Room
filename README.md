@@ -1,135 +1,143 @@
-🏥 Hospital Emergency Room Dashboard
+🏥 HOSPITAL EMERGENCY ROOM DASHBOARD
 
-An interactive dashboard built entirely using Microsoft Excel to visualize and monitor the performance of a hospital emergency room. The dashboard helps track patient flow, referrals, wait times, and service quality using KPIs and visuals.
+An interactive dashboard built entirely using Microsoft Excel to monitor and analyze emergency room performance. It tracks patient flow, referrals, wait times, and service quality using KPIs and visuals.
 
-📌 Project Overview
+
+
+
+📌 PROJECT OVERVIEW
 
 Project Title: Hospital Emergency Room Dashboard
-
 Technology Used: Microsoft Excel
-
 Completion Date: 10 August 2025
 
-✅ Key Features
 
+
+
+
+✅ KEY FEATURES
 1. Total Patients
 
-Number of patients served during the month.
+Description:
+Total number of patients served during the month.
 
 Value: 9,216
 
 2. Average Wait Time
 
-Average time a patient waits before receiving service.
+Description:
+Average time a patient waits before receiving medical attention.
 
 Value: 35.26 minutes
 
 3. Patient Satisfaction Score
 
-Reflects service quality from the patient's perspective.
+Description:
+An indicator reflecting patient service quality. (Scale to be defined)
 
-Value: 1.36 (Scale to be defined)
+Value: 1.36
 
 4. Patients Attended Within Target Time
 
-Tracks how efficiently patients are being attended based on defined service time standards.
+Description:
+Tracks efficiency by showing how many patients were seen within a predefined time limit.
 
-📊 Dashboard Visualizations
 
+
+
+
+
+📊 DASHBOARD VISUALIZATIONS
 1. Department Referrals
 
-Displays the distribution of patient referrals by each hospital department.
-
-View Chart
+Details:
+Distribution of patient referrals by each hospital department.
+🔗 View Chart
 
 2. Patient Admission Status
 
-Categorizes patients into admitted, discharged, or treated groups.
-
-Included in the main dashboard image.
+Details:
+Classification of patients as admitted, discharged, or treated.
+📌 Included in the main dashboard image.
 
 3. Patients Age Distribution
 
-Shows a breakdown of patients by age group for demographic insights.
-
-Included in the main dashboard image.
+Details:
+Demographic insights showing patient counts across different age groups.
+📌 Included in the main dashboard image.
 
 4. Patient Satisfaction
 
+Details:
 Graphical representation of satisfaction score.
-
-View Satisfaction Score Chart
+🔗 View Satisfaction Score Chart
 
 5. Gender Analysis
 
-Compares the number of male vs female patients visiting the ER.
-
-Included in the main dashboard image.
+Details:
+Visual comparison of male and female patient visits.
+📌 Included in the main dashboard image.
 
 6. Service Timeliness
 
-Visual showing the number or percentage of patients attended within the set time threshold.
+Details:
+Indicates how many patients were attended within the target timeframe.
+📌 Included in the main dashboard image.
 
-Included in the main dashboard image.
 
-📁 Files & Resources
 
-Main Dashboard Image
 
-The final visual Excel dashboard combining all KPIs and charts.
 
-View Dashboard
+📁 FILES & RESOURCES
+🔹 Main Dashboard
 
-Raw Data File
+📷 View Dashboard
 
-The source data used to build the dashboard in Excel.
+🔹 Raw Data File
 
-Download Excel File
+📊 Download Excel File
 
-Average Wait Time Chart
+🔹 Average Wait Time Chart
 
-Standalone chart showing average patient wait time.
+📈 View Chart
 
-View Chart
+🔹 Satisfaction Score Chart
 
-Satisfaction Score Chart
+📉 View Chart
 
-Visual representation of the satisfaction score.
+🔹 Total Patients Monthly Chart
 
-View Chart
 
-Total Patients Monthly Chart
+📊 View Chart
 
-Chart visualizing the total number of patients served per month.
+🛠️ TOOLS USED
+Microsoft Excel
 
-View Chart
+Used for:
 
-🛠️ Tools Used
+Data entry and preparation
 
-Microsoft Excel was used for the entire project, including:
+Calculating KPIs
 
-Data entry and cleaning
+Building dynamic charts and visuals
 
-KPI calculations
+Designing the interactive dashboard layout
 
-Creating interactive charts and visuals
 
-Designing the final dashboard layout
+📥 HOW TO USE THE DASHBOARD
 
-📥 How to Use the Dashboard
+Download the raw Excel file from the link above.
 
-Download the raw data Excel file from the link above.
+Review the dashboard image to understand layout, KPIs, and visuals.
 
-Review the dashboard image to understand the layout and KPIs.
+Replicate or enhance the dashboard using the raw data.
 
-You can replicate or expand the dashboard in Excel using the provided data and charts.
+Use Excel slicers or filters (if implemented) for interactive insights.
 
-The dashboard can be filtered by month or department (if slicers are applied).
+💬 FEEDBACK & CONTRIBUTIONS
 
-💬 Feedback & Contributions
-
-If you have suggestions, feedback, or want to improve this project:
+Have suggestions or want to improve this project?
 
 Open an issue
 
-Or submit a pull request with your contributions.
+Or create a pull request to contribute
