@@ -1,86 +1,84 @@
+🏥 Hospital Emergency Room Dashboard
 
-Hospital Emergency Room Dashboard
+An interactive Hospital Emergency Room Dashboard built entirely using Microsoft Excel, designed to provide a clear and concise monthly performance overview. It tracks patient flow, departmental referrals, wait times, and service quality through well-defined KPIs and visual analytics.
 
-This project showcases an interactive hospital emergency room dashboard built entirely in Microsoft Excel. It provides a monthly performance overview to help track patient flow, referrals, wait times, and service quality through clear KPIs and visual analytics.
+📅 Project Details
 
+Project Name: Hospital Emergency Room Dashboard
 
+Technology Used: Microsoft Excel
 
-Tools Used Only Excel Completed on 10 August 2025
+Completion Date: 10 August 2025
 
-
-
-Key Features
-
-Total Patients: 9,216 — total number of patients served in the month.
-
-Average Wait Time: 35.26 minutes — average patient waiting time before service.
-
-Patient Satisfaction Score: 1.36 — indicator of patient service quality (scale TBD).
-
-Patients Attended Within Time — measures service delivery efficiency.
-
-
-Charts & Visuals
-
-1. Department Referrals — distribution of patient referrals by department.
-
-
-2. Patient Admission Status — admitted vs discharged vs treated breakdown.
-
-
-3. Patients Age Distribution — demographic insights by age group.
-
-
-4. Patient Satisfaction — visual score representation.
-
-
-5. Gender Analysis — male vs female patient visits.
-
-
-6. Service Timeliness — patients attended within the set target time.
+📊 Key Performance Indicators (KPIs)
+KPI	Value	Description
+Total Patients	9,216	Total number of patients served in the month.
+Average Wait Time	35.26 minutes	Average time a patient waits before receiving service.
+Satisfaction Score	1.36	Indicator of patient service quality (scale definition TBD).
+Service Timeliness	✓	Measures the percentage of patients attended within the set target time.
 
 
 
-Technology Used
+📈 Visual Analytics
 
-Microsoft Excel — for data entry, cleaning, KPI calculation, and chart creation.
+The dashboard includes several key visual components for insight and decision-making:
 
-
-Links
-
-
-
-   Dashboard Link :- https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/Final%20Dashboard.png
-   
+Department Referrals
+Breakdown of patient referrals by department.
 
 
+Patient Admission Status
+Categorizes patients as admitted, discharged, or treated.
+Included in main dashboard.
 
-   
-   Average Wait Time :- https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/AverageWaitTime.png
+Patients Age Distribution
+Visualizes patient demographics by age group.
+Included in main dashboard.
 
-   
-   
-
-
-   Raw Data Link :-   https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/Hospital%20Emergency%20Room%20Data%20Raw.xlsx
-
-
-
-
-   Satisfaction Score Link :- https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/SatisfactionScore.png
+Patient Satisfaction
+Graphical representation of satisfaction score.
 
 
+Gender Analysis
+Compares male vs female patient visits.
+Included in main dashboard.
 
+Service Timeliness
+Shows how many patients were attended within the target wait time.
+Included in main dashboard.
 
+📂 Files and Resources
+Resource	Link
+🔗 Main Dashboard	View Dashboard
 
-   Total Patients Links :- https://github.com/ibrahim22-11/Hospital-Emergency-Room/blob/main/TotalPatientsMonthly.png
+📥 Raw Data File	Download Excel File
 
-   
+📊 Average Wait Time Chart	View Chart
 
-   
-   
+💬 Satisfaction Score Chart	View Chart
 
+📌 Total Patients Chart	View Chart
+🛠️ Tools Used
 
----
+Microsoft Excel
 
-This dashboard is useful for hospital administrators, healthcare analysts, and managers to monitor emergency room performance, reduce waiting times, and improve patient satisfaction using only Excel.
+Data Entry & Cleaning
+
+KPI Calculations
+
+Chart Creation & Dashboard Design
+
+📌 How to Use
+
+Download the Excel raw data file.
+
+Open the dashboard image or replicate it in Excel using the raw data and charts.
+
+Use filters or slicers (if implemented) to explore monthly trends.
+
+📬 Feedback or Questions?
+
+Feel free to open an issue
+ on the repository for any questions or suggestions.
+
+Let me know if you want me to create a markdown file (README.md) or help you push this structure directly into your GitHub repo.
