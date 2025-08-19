@@ -96,7 +96,11 @@ This project was created entirely in **Microsoft Excel**:
 Have ideas to improve this dashboard?
 
 - Open an [issue](https://github.com/ibrahim22-11/Hospital-Emergency-Room/issues)  
-- Submit a pull request if you want to collaborate  
+- Submit a pull request if you want to collaborate
+
+**A project by Ibrahim Mufaddal Shakir**  
+*Aspiring Data Analyst*
+
 
 ---
 
