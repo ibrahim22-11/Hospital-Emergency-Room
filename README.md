@@ -110,6 +110,9 @@ Indicates how many patients were attended within the target timeframe.
 
 📊 View Chart
 
+
+
+
 🛠️ TOOLS USED
 Microsoft Excel
 
@@ -124,6 +127,11 @@ Building dynamic charts and visuals
 Designing the interactive dashboard layout
 
 
+
+
+
+
+
 📥 HOW TO USE THE DASHBOARD
 
 Download the raw Excel file from the link above.
@@ -133,6 +141,10 @@ Review the dashboard image to understand layout, KPIs, and visuals.
 Replicate or enhance the dashboard using the raw data.
 
 Use Excel slicers or filters (if implemented) for interactive insights.
+
+
+
+
 
 💬 FEEDBACK & CONTRIBUTIONS
 
